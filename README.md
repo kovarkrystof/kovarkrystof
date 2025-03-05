@@ -1,5 +1,5 @@
 ## About Me
-I'm just starting my journey as a web developer and excited to learn and build amazing websites!
+I'm just starting my journey as a **web developer** and excited to learn and build amazing websites!
 
 ## 🚀 Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript
