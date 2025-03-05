@@ -7,7 +7,11 @@ I'm just starting my journey as a web developer and excited to learn and build a
 - **Version Control:** GitHub
 - **Currently Learning:** Python, JavaScript, PHP
 
-- ## 📫 Connect With Me
+## 🌐 Projects
+Here are some of my online projects:
+- [Website for Eveder](https://www.eveder.cz): Eveder.cz is an online business card that provides key company details like contact information, ID, and a location map.
+
+## 📫 Connect With Me
 - 💼 LinkedIn: [Kryštof Kovář](https://www.linkedin.com/in/kryštof-kovář-724a0534a/)
 - ✉️ Email: [kovar.krystof@email.cz](mailto:kovar.krystof@email.cz)
 
