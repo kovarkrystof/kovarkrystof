@@ -2,7 +2,3 @@
 <h3 align="center">I'm just starting my journey as a web developer and excited to learn and build amazing websites!</h3>
 
 - 📫 How to reach me **kovar.krystof@email.cz**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
