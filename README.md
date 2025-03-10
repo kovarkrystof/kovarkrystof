@@ -11,7 +11,7 @@ I'm just starting my journey as a **web developer** and excited to learn and bui
 Here are some of my online projects:
 - Website for Eveder: [Eveder.cz](https://www.eveder.cz) is an online business card that provides key company details like contact information, ID, and a location map.
 - Most of my other projects are fictional, but you can check them out right here on GitHub.
-- I'm also actively working on new projects, so stay tuned! 🚀
+- I'm also actively working on new projects, so stay tuned! 🔥
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [Kryštof Kovář](https://www.linkedin.com/in/kryštof-kovář-724a0534a/)
