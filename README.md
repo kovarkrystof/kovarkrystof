@@ -5,7 +5,7 @@ I'm just starting my journey as a **web developer** and excited to learn and bui
 - **Frontend:** HTML, CSS, JavaScript  
 - **Programming Languages:** Python, PHP  
 - **Version Control:** GitHub
-- - **AI & Automation:** Utilizing different **AI models** to improve development and productivity  
+- **AI & Automation:** Utilizing different **AI models** to improve development and productivity  
 - **Currently Learning:** Python, JavaScript, PHP  
 
 ## 🌐 Projects  
