@@ -3,7 +3,7 @@ I'm just starting my journey as a **web developer** and excited to learn and bui
 
 ## 🚀 Technologies & Tools  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Programming Languages:** Python, PHP  
+- **Programming Languages:** Python
 - **Version Control:** GitHub
 - **AI & Automation:** Utilizing different **AI models** to improve development and productivity  
 - **Currently Learning:** Python, JavaScript, PHP  
