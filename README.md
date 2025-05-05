@@ -2,7 +2,7 @@
 I'm just starting my journey as a **web developer** and excited to learn and build amazing websites! I also explore and use various **AI models** to enhance my workflow and development process.  
 
 ## 🚀 Technologies & Tools  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS
 - **Programming Languages:** Python
 - **Version Control:** GitHub
 - **AI & Automation:** Utilizing different **AI models** to improve development and productivity  
