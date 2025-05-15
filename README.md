@@ -17,5 +17,3 @@ Here are some of my online projects:
 ## 📫 Connect With Me  
 - 💼 LinkedIn: [Kryštof Kovář](https://www.linkedin.com/in/kryštof-kovář-724a0534a/)  
 - ✉️ Email: [kovar.krystof@email.cz](mailto:kovar.krystof@email.cz)  
-
-Thanks for visiting my profile! 🚀
